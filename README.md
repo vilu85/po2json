@@ -1,6 +1,6 @@
 # po2json
 
-[![Build Status](https://secure.travis-ci.org/mikeedwards/po2json.png?branch=master)](http://travis-ci.org/mikeedwards/po2json)
+[![Build Status](https://github.com/vilu85/po2json/actions/workflows/node.js.yml/badge.svg)](https://github.com/vilu85/po2json/actions/workflows/node.js.yml)
 [![Dependency Status](https://david-dm.org/mikeedwards/po2json.png?theme=shields.io)](https://david-dm.org/mikeedwards/po2json)
 [![devDependency Status](https://david-dm.org/mikeedwards/po2json/dev-status.png?theme=shields.io)](https://david-dm.org/mikeedwards/po2json#info=devDependencies)
 
