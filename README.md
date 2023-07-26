@@ -165,6 +165,9 @@ npm test
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [grunt](https://github.com/gruntjs/grunt).
 
 ## Release History
+### 1.0.1 / 2023-07-26
+ * Updated dependencies
+
 ### 1.0.0 / 2018-09-24
  * Updated dependencies.
  * Replaced nomnom with commander.
