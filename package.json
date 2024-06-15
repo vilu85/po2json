@@ -58,7 +58,7 @@
   },
   "devDependencies": {
     "jed": "~1.1.1",
-    "jest": "^26.1.0",
+    "jest": "^29.7.0",
     "messageformat": "^2.3.0"
   },
   "keywords": [
